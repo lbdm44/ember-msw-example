@@ -56,5 +56,13 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "msw": "^0.20.5"
+  },
+  "ember-addon": {
+    "paths": [
+      "lib/msw-js"
+    ]
   }
 }
